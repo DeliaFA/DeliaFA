@@ -11,9 +11,8 @@
 ---
 
 ### 🌱 I'm currently:
-- 📚 Learning interactive dashboard development using **R Shiny**
+- 📚 Learning interactive dashboard development 
 - 🔍 Exploring time series models for economic indicators
-- 🧑‍🤝‍🧑 Collaborating on a community-based KKN project
 - ✍️ Improving scientific writing and storytelling with data
 
 ---
